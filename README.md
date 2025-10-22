@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Lvyizhuo/Lvyizhuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He is currently pursuing a master's degree at Qilu University of Technology. His research interests include **Graph Neural Networks**, **Machine Learning**, and **Reinforcement Learning**. He has experience in dynamic graph influence maximization problems.
 
-Here are some ideas to get you started:
+## Honors & Awards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **First Prize** — The Chinese College Student Mathematical Modeling Competition (CUMCM), 2022
+- **First Prize** — The 15th Chinese College Student Mathematics Competition (CMC), 2024
+- **Third Prize** — The 15th China Modeling Mathematics Challenge (SPSSPRO), 2024
+
+## Contact
+
+- Personal Website: [lvyizhuo.github.io](https://lvyizhuo.github.io)
+- Technical Docs: [DocsWeb](https://lvyizhuo.github.io/DocsWeb/)
+- Email: Lvyizhuo1921708385@163.com
