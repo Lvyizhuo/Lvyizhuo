@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lvyizhuo&label=Profile views&color=0e75b6&style=flat" alt="Lvyizhuo" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lvyizhuo" alt="Lvyizhuo" /></a> </p>
+
 - 🔭 I'm currently working on **GNN、RL**
 
 - 🌱 I'm currently learning **Agent、RAG、LLM**
