@@ -36,7 +36,7 @@
     />
     <!-- 第二个提交趋势卡片：浅色主题 + 修复显示 -->
     <img 
-      src="https://streak-stats.demolab.com/?user=Lvyizhuo&card_width=400&theme=default&hide_border=true&date_format=M%20j%2C%20Y&fire=E63946&background=ffffff" 
+      src="https://streak-stats.demolab.com/?user=Lvyizhuo&card_width=400&theme=github-dark&hide_border=true&date_format=M%20j%2C%20Y&fire=4CAF50&background=161B22" 
       alt="Lvyizhuo's GitHub Streak Stats" 
       height="180"
       style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); background: #ffffff;"
