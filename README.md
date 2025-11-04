@@ -27,19 +27,19 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px; padding: 10px 0;">
-    <!-- 第一个统计卡片：统一主题+优化样式 -->
+    <!-- 第一个统计卡片：浅色主题 + 稳定参数 -->
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Lvyizhuo&show_icons=true&locale=en&card_width=400&theme=github-dark&hide_border=true&icon_color=4CAF50&text_color=ffffff" 
+      src="https://github-readme-stats.vercel.app/api?username=Lvyizhuo&show_icons=true&locale=en&card_width=400&theme=default&hide_border=true&icon_color=2563EB&text_color=333333" 
       alt="Lvyizhuo's GitHub Stats" 
       height="180"
-      style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);"
+      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); background: #ffffff;"
     />
-    <!-- 第二个提交趋势卡片：修复链接+统一风格 -->
+    <!-- 第二个提交趋势卡片：浅色主题 + 修复显示 -->
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Lvyizhuo&card_width=400&theme=github-dark&hide_border=true&date_format=M%20j%2C%20Y&fire=4CAF50&background=161B22" 
+      src="https://streak-stats.demolab.com/?user=Lvyizhuo&card_width=400&theme=default&hide_border=true&date_format=M%20j%2C%20Y&fire=E63946&background=ffffff" 
       alt="Lvyizhuo's GitHub Streak Stats" 
       height="180"
-      style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);"
+      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); background: #ffffff;"
     />
   </div>
 </p>
