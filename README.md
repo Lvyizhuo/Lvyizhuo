@@ -2,7 +2,14 @@
 
 ### A current master's student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lvyizhuo&label=Profile views&color=0e75b6&style=flat" alt="Lvyizhuo" /> </p>
+<p align="left">
+  <img 
+    src="https://badges.pufler.dev/visits/Lvyizhuo/Lvyizhuo?label=Profile Views&color=0e75b6&style=flat&logo=github" 
+    alt="Profile Views"
+    style="background: #fff; padding: 4px 8px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);"
+    loading="lazy"
+  />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lvyizhuo" alt="Lvyizhuo" /></a> </p>
 
