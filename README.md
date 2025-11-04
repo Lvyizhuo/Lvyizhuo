@@ -26,20 +26,24 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px; padding: 10px 0;">
-    <!-- 第一个统计卡片：浅色主题 + 稳定参数 -->
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px; max-width: 850px; margin: 0 auto;">
+    <!-- 第一个统计卡片：官方稳定服务 + 极简参数 -->
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Lvyizhuo&show_icons=true&locale=en&card_width=400&theme=default&hide_border=true&icon_color=2563EB&text_color=333333" 
-      alt="Lvyizhuo's GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=Lvyizhuo&show_icons=true&card_width=400&theme=default&hide_border=true" 
+      alt="GitHub Stats" 
+      width="400" 
       height="180"
-      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); background: #ffffff;"
+      style="border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); background: #fff; object-fit: contain;"
+      loading="lazy"
     />
-    <!-- 第二个提交趋势卡片：浅色主题 + 修复显示 -->
+    <!-- 第二个提交趋势卡片：官方推荐备用服务 + 极简参数 -->
     <img 
-      src="https://streak-stats.demolab.com/?user=Lvyizhuo&card_width=400&theme=github-dark&hide_border=true&date_format=M%20j%2C%20Y&fire=4CAF50&background=161B22" 
-      alt="Lvyizhuo's GitHub Streak Stats" 
+      src="https://github-readme-streak-stats.vercel.app/?user=Lvyizhuo&card_width=400&theme=default&hide_border=true" 
+      alt="Streak Stats" 
+      width="400" 
       height="180"
-      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); background: #ffffff;"
+      style="border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.05); background: #fff; object-fit: contain;"
+      loading="lazy"
     />
   </div>
 </p>
