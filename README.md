@@ -25,19 +25,22 @@
 
 - 📫 How to reach me **Lvyizhuo1921708385@163.com**
 
-- ⚡ Fun fact **Gold will shine everywhere.**
 
-- � **IDE & Editor:**
-  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-- �👨‍💻 All of my projects are available at **[https://github.com/Lvyizhuo](https://github.com/Lvyizhuo)**
+
+
+- 👨‍💻 All of my projects are available at **[https://github.com/Lvyizhuo](https://github.com/Lvyizhuo)**
 
 - 📝 I regularly write articles on **[https://blog.csdn.net/Lvyizhuo?type=blog](https://blog.csdn.net/Lvyizhuo?type=blog)**
 
 - 📄 Know about my experiences **[https://lvyizhuo.github.io/](https://lvyizhuo.github.io/)**
+
+- ⚡ Fun fact **Gold will shine everywhere.**
+
+-  **IDE & Editor:**
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,7 +70,7 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-
+**Development Tools & Frameworks:**
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
