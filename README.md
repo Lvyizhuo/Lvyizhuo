@@ -4,7 +4,7 @@
 
 <p align="left">
   <img 
-    src="https://badges.pufler.dev/visits/Lvyizhuo/Lvyizhuo?label=Profile Views&color=0e75b6&style=flat&logo=github" 
+    src="https://visitor-badge.glitch.me/badge?page_id=Lvyizhuo.Lvyizhuo&label=Profile Views&color=0e75b6&style=flat" 
     alt="Profile Views"
     style="background: #fff; padding: 4px 8px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);"
     loading="lazy"
