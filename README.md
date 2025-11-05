@@ -107,7 +107,7 @@ I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and w
 
 
 
-<h3 align="left">📊 GitHub Statistics:</h3>
+<h2 align="left">📊 GitHub Statistics:</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lvyizhuo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
