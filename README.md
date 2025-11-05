@@ -4,12 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=Lvyizhuo&label=Profile%20views&color=0e75b6&style=flat-square" alt="Lvyizhuo" />
   <img src="https://img.shields.io/github/followers/Lvyizhuo?label=Followers&style=flat-square&color=blue" alt="followers" />
   <img src="https://img.shields.io/github/stars/Lvyizhuo?label=Stars&style=flat-square&color=yellow" alt="stars" />
-  <a href="https://twitter.com/mmgg04" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mmgg04?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter" />
   </a>
 </p>
 
-Welcome to my homepage! \
+Welcome to my homepage! 
+
 I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and working at [SDAI](http://www.sdai.net/). Currently, I am working on Dynamic Influence Maximization and GraphQL, while also learning Agent, RAG, and LLM; additionally, I am looking to collaborate on AI Development, JAVA Development, and Mini Program Development, and my fun fact is "Gold will shine everywhere."
 
 <p align="left"> 
@@ -45,9 +44,10 @@ I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and w
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+
 
 
 ## Open source projects
