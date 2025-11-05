@@ -1,4 +1,5 @@
-# Hi 👋, I'm Yizhuo Lv
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Lvyizhuo&label=Profile%20views&color=0e75b6&style=flat-square" alt="Lvyizhuo" />
   <img src="https://img.shields.io/github/followers/Lvyizhuo?label=Followers&style=flat-square&color=blue" alt="followers" />
@@ -8,17 +9,16 @@
   </a>
 </p>
 
-Welcome to my homepage! I am a current master's student studying at QLU and working at SDAI. Currently, I am working on Dynamic Influence Maximization and GraphQL, while also learning Agent, RAG, and LLM; additionally, I am looking to collaborate on AI Development, JAVA Development, and Mini Program Development, and my fun fact is "Gold will shine everywhere."
+Welcome to my homepage! \
+I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and working at [SDAI](http://www.sdai.net/). Currently, I am working on Dynamic Influence Maximization and GraphQL, while also learning Agent, RAG, and LLM; additionally, I am looking to collaborate on AI Development, JAVA Development, and Mini Program Development, and my fun fact is "Gold will shine everywhere."
 
-
-<h3 align="left">Where to find me:</h3>
-<p align="left">
-<a href="https://github.com/Lvyizhuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lvyizhuo" height="30" width="40" /></a>
-<a href="https://twitter.com/mmgg04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmgg04" height="30" width="40" /></a>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lvyizhuo&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Lvyizhuo" />
+  </a> 
 </p>
 
-
-<h3 align="left">Things I code with:</h3>
+<h2 align="left">Things I code with:</h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -50,8 +50,7 @@ Welcome to my homepage! I am a current master's student studying at QLU and work
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 
-
-### Open Source Projects
+## Open source projects
 
 <table>
   <thead align="center">
@@ -87,6 +86,22 @@ Welcome to my homepage! I am a current master's student studying at QLU and work
     </tr>
   </tbody>
 </table>
+
+
+
+## My latest posts
+
+- [【docker】—— 部署python项目](https://blog.csdn.net/Lvyizhuo/article/details/143323046?spm=1001.2014.3001.5501)
+
+- [【Linux】——Vim编辑器基本操作](https://blog.csdn.net/Lvyizhuo/article/details/149192547?spm=1001.2014.3001.5501)
+
+- [【Linux服务器】——模型训练技巧](https://blog.csdn.net/Lvyizhuo/article/details/150344137?spm=1001.2014.3001.5501)
+
+- [【ClaudeCode】——使用技巧](https://blog.csdn.net/Lvyizhuo/article/details/150487217?spm=1001.2014.3001.5501)
+
+- [【ClaudeCode】——常用指令](https://blog.csdn.net/Lvyizhuo/article/details/150487398?spm=1001.2014.3001.5501)
+
+- [【大数据网络传播模型和算法-陈卫】——影响力最大化【持续更新】](https://blog.csdn.net/Lvyizhuo/article/details/142965718?spm=1001.2014.3001.5501)
 
 
 
