@@ -1,7 +1,4 @@
 # Hi 👋, I'm Yizhuo Lv
-
-### A current master's student
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Lvyizhuo&label=Profile%20views&color=0e75b6&style=flat-square" alt="Lvyizhuo" />
   <img src="https://img.shields.io/github/followers/Lvyizhuo?label=Followers&style=flat-square&color=blue" alt="followers" />
@@ -10,6 +7,16 @@
     <img src="https://img.shields.io/twitter/follow/mmgg04?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter" />
   </a>
 </p>
+
+Welcome to my homepage! I am a current master's student studying at QLU and working at SDAI. Currently, I am working on Dynamic Influence Maximization and GraphQL, while also learning Agent, RAG, and LLM; additionally, I am looking to collaborate on AI Development, JAVA Development, and Mini Program Development, and my fun fact is "Gold will shine everywhere."
+
+
+<h3 align="left">Where to find me:</h3>
+<p align="left">
+<a href="https://github.com/Lvyizhuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lvyizhuo" height="30" width="40" /></a>
+<a href="https://twitter.com/mmgg04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmgg04" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Things I code with:</h3>
 
@@ -43,32 +50,47 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lvyizhuo&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Lvyizhuo" />
-  </a> 
-</p>
+
+### Open Source Projects
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>🎁 Projects</th>
+      <th>⭐ Stars</th>
+      <th>🍴 Forks</th>
+      <th>🚨 Issues</th>
+      <th>📬 Pull Requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Lvyizhuo/2048_MiniProgram"><b>2048 MiniProgram</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lvyizhuo/DynamicGraphInfluenceMaximization"><b>Dynamic Graph Influence Maximization</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lvyizhuo/DocsWeb"><b>DocsWeb</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
-- 🔭 I'm currently working on **Dynamic Influence Maximization、GraphQL**
-
-- 🌱 I'm currently learning **Agent、RAG、LLM**
-
-- 👯 I'm looking to collaborate on **AI Development、JAVA Development、Mini Program Development**
 
 
-- ⚡ Fun fact **Gold will shine everywhere.**
-
-
-
-
-
-
-<h3 align="left">Where to find me:</h3>
-<p align="left">
-<a href="https://github.com/Lvyizhuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lvyizhuo" height="30" width="40" /></a>
-<a href="https://twitter.com/mmgg04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmgg04" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">📊 GitHub Statistics:</h3>
 
