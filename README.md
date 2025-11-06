@@ -9,7 +9,7 @@
 
 Welcome to my homepage! 
 
-I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and working at [SDAI](http://www.sdai.net/). Currently, I am working on Dynamic Influence Maximization and GraphQL, while also learning Agent, RAG, and LLM; additionally, I am looking to collaborate on AI Development, JAVA Development, and Mini Program Development, and my fun fact is "Gold will shine everywhere."
+I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and working at [SDAI](http://www.sdai.net/). Currently, I am working on Dynamic Influence Maximization and GraphQL, while also learning Agent, RAG, and LLM; additionally, I am looking to collaborate on AI Development, JAVA Development, and Mini Program Development.
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
