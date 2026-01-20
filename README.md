@@ -104,28 +104,6 @@ I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and w
 - [【大数据网络传播模型和算法-陈卫】——影响力最大化【持续更新】](https://blog.csdn.net/Lvyizhuo/article/details/142965718?spm=1001.2014.3001.5501)
 
 
-
-
-
-<h2 align="left">📊 GitHub Statistics:</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lvyizhuo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvyizhuo&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lvyizhuo&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  
-### 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🎯 Current Focus
 ![](https://img.shields.io/badge/Focus-AI%20Development-brightgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-Graph%20Learning-blue?style=for-the-badge)
