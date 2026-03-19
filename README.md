@@ -7,107 +7,60 @@
   </a>
 </p>
 
-Welcome to my homepage! 
+全栈开发者，热爱探索新技术，追求极简与高效。
+> “是金子总会发光！”
 
-I am a current master's student studying at [QLU](https://www.qlu.edu.cn/) and working at [SDAI](http://www.sdai.net/). Currently, I am working on Dynamic Influence Maximization and GraphQL, while also learning Agent, RAG, and LLM; additionally, I am looking to collaborate on AI Development, JAVA Development, and Mini Program Development.
+- 🔭 专注于现代 Web 技术与 AI 应用开发
+- 📕 研究方向：强化学习、数据挖掘、大语言模型
+- 🌱 持续学习与成长，乐于分享与开源
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lvyizhuo&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Lvyizhuo" />
-  </a> 
+
+
+<h3 align="left"> 🛠 技术栈</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff" alt="Qt">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff" alt="Spring">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000" alt="C">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff" alt="Rust">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" alt="Oracle">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" alt="Redis">
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff" alt="Kafka">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff" alt="NGINX">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff" alt="LangChain">
+  <img src="https://img.shields.io/badge/Ollama-00080F?logo=ollama&logoColor=fff" alt="Ollama">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" alt="Anaconda">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff" alt="Jupyter">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" alt="Figma">
 </p>
 
-<h2 align="left">Things I code with:</h2>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+### 📫 联系我
 
+- 个人网站：[lvyizhuo.github.io](https://lvyizhuo.github.io/)
+- 邮箱：lvonezhuo@163.com
 
-
-## Open source projects
-
-<table>
-  <thead align="center">
-    <tr>
-      <th>🎁 Projects</th>
-      <th>⭐ Stars</th>
-      <th>🍴 Forks</th>
-      <th>🚨 Issues</th>
-      <th>📬 Pull Requests</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Lvyizhuo/2048_MiniProgram"><b>2048 MiniProgram</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lvyizhuo/2048_MiniProgram?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Lvyizhuo/DynamicGraphInfluenceMaximization"><b>Dynamic Graph Influence Maximization</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lvyizhuo/DynamicGraphInfluenceMaximization?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Lvyizhuo/DocsWeb"><b>DocsWeb</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Lvyizhuo/DocsWeb?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-## My latest posts
-
-- [【docker】—— 部署python项目](https://blog.csdn.net/Lvyizhuo/article/details/143323046?spm=1001.2014.3001.5501)
-
-- [【Linux】——Vim编辑器基本操作](https://blog.csdn.net/Lvyizhuo/article/details/149192547?spm=1001.2014.3001.5501)
-
-- [【Linux服务器】——模型训练技巧](https://blog.csdn.net/Lvyizhuo/article/details/150344137?spm=1001.2014.3001.5501)
-
-- [【ClaudeCode】——使用技巧](https://blog.csdn.net/Lvyizhuo/article/details/150487217?spm=1001.2014.3001.5501)
-
-- [【ClaudeCode】——常用指令](https://blog.csdn.net/Lvyizhuo/article/details/150487398?spm=1001.2014.3001.5501)
-
-- [【大数据网络传播模型和算法-陈卫】——影响力最大化【持续更新】](https://blog.csdn.net/Lvyizhuo/article/details/142965718?spm=1001.2014.3001.5501)
-
-
-### 🎯 Current Focus
-![](https://img.shields.io/badge/Focus-AI%20Development-brightgreen?style=for-the-badge)
-![](https://img.shields.io/badge/Focus-Graph%20Learning-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Focus-Full%20Stack-orange?style=for-the-badge)
 
 </div>
 
