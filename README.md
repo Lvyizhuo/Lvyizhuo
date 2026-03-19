@@ -1,20 +1,25 @@
 # 👋 Hi, I'm Lvyizhuo
 
-> **Full-Stack Developer · AI Explorer · Minimalist Builder**
+> **Full-Stack Developer · AI Engineer · Minimalist Builder**
 
-专注于构建高质量 Web 应用与 AI 系统。
-在复杂中寻找简单，在效率中追求极致。
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Lvyizhuo&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Lvyizhuo?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Lvyizhuo?label=Stars&style=flat-square" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 深耕 **现代 Web 架构 & AI 应用开发**
-* 🧠 研究方向：强化学习 / 数据挖掘 / 大语言模型
-* ⚙️ 偏好：简洁设计、高性能实现、工程化思维
-* 🌱 持续进化，长期主义者
+I build scalable web systems and AI-driven applications with a focus on simplicity, performance, and engineering quality.
 
-> *“Build simple. Scale smart.”*
+* 🔭 Working on **modern web architecture & AI applications**
+* 🧠 Interests: Reinforcement Learning, Data Mining, LLMs
+* ⚙️ Strong preference for **clean design & efficient systems**
+* 🌱 Always learning, building, and refining
+
+> *"Build simple. Scale smart."*
 
 ---
 
@@ -27,9 +32,9 @@
 `React` `Vue` `HTML5` `CSS`
 
 **Backend**
-`Node.js` `Spring` `RESTful API`
+`Node.js` `Spring` `RESTful APIs`
 
-**Data & AI**
+**AI / Data**
 `PyTorch` `TensorFlow` `scikit-learn`
 `NumPy` `Pandas`
 
@@ -44,28 +49,18 @@
 
 ---
 
-## 🛠 Selected Focus
+## 🛠 Focus Areas
 
-* ⚡ 高性能 Web 系统设计
-* 🤖 LLM / Agent / RAG 应用落地
-* 📊 数据驱动产品开发
-* 🧱 工程化与架构优化
-
----
-
-## 📈 GitHub
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Lvyizhuo&label=Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Lvyizhuo?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Lvyizhuo?style=flat-square" />
-</p>
+* ⚡ High-performance web systems
+* 🤖 LLM / Agent / RAG applications
+* 📊 Data-driven product development
+* 🧱 Scalable architecture & engineering practices
 
 ---
 
 ## 📫 Contact
 
-* 🌐 https://lvyizhuo.github.io/
+* 🌐 [lvyizhuo.github.io](https://lvyizhuo.github.io/)
 * 📧 [lvonezhuo@163.com](mailto:lvonezhuo@163.com)
 
 ---
