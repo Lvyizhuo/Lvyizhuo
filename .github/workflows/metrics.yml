@@ -39,7 +39,7 @@ jobs:
 
           # 3D 日历
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
           # 语言统计
           plugin_languages: yes
