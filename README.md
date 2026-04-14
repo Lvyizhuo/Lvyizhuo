@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="./Skills_Animation_Dark.gif" width="100%"/>
+      <img src="./metrics.plugin.16personalities.svg" width="100%"/>
     </td>
   </tr>
 </table>

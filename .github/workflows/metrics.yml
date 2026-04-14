@@ -47,3 +47,18 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           
           # 注意：plugin_streak 和 plugin_quotes 已移除，因为原项目不支持此功能
+
+      - uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Lvyizhuo
+          template: classic
+          filename: metrics.plugin.16personalities.svg
+          config_timezone: Asia/Shanghai
+          base: ""
+
+          # 16personalities 人格展示
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: yes
