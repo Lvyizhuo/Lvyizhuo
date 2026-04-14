@@ -55,17 +55,7 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: worldmap
 
-      - uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Lvyizhuo
-          template: classic
-          filename: metrics.plugin.16personalities.svg
-          config_timezone: Asia/Shanghai
-          base: ""
-
-          # 16personalities 人格展示
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: yes
+      # 注意：plugin_16personalities 插件依赖 Puppeteer 抓取 16personalities.com 页面，
+      # 但该网站已重新设计 DOM 结构（.card__bg、.type__code 等 CSS 类不再存在），
+      # 导致插件永久性失效，无法通过更改 URL 修复。
+      # metrics.plugin.16personalities.svg 已替换为静态 SVG 文件。
