@@ -23,7 +23,7 @@
         You can reach me here:
       <ul>
         <li> <b>QQ:</b> <a href="https://qm.qq.com/q/GuULJs94S6">1921708385</a></li>
-        <li> <b>WeChat:</b> ./WeChat.jpg</li>
+        <li> <b>WeChat:</b> <a href="./WeChat.jpg">./WeChat.jpg</a></li>
         <li> <b>Email:</b> <a href="mailto:lvonezhuo@163.com">lvonezhuo@163.com</a></li>
       </ul>
       </p>
