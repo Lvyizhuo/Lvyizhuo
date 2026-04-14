@@ -23,7 +23,9 @@
         You can reach me here:
       <ul>
         <li> <b>QQ:</b> <a href="https://qm.qq.com/q/GuULJs94S6">1921708385</a></li>
-        <li> <b>WeChat:</b> <a href="./WeChat.jpg">./WeChat.jpg</a></li>
+        <li> <b>WeChat:</b> <a href="./WeChat.jpg">IMSG-04</a></li>
+        <li> <b>RedNote:</b> <a href="https://xhslink.com/m/lTYLlvwdZi">Lonz</a></li>
+        <li> <b>Homepage:</b> <a href="https://lvyizhuo.github.io/">Yizhuo Lv</a></li>
         <li> <b>Email:</b> <a href="mailto:lvonezhuo@163.com">lvonezhuo@163.com</a></li>
       </ul>
       </p>
