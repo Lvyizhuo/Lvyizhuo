@@ -19,7 +19,7 @@
       <p>
         <!-- <a href="https://lvyizhuo.github.io/"><img src="https://img.shields.io/badge/Website-Personal-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
         <a href="mailto:lvonezhuo@163.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a> -->
-        Taking paid coding commissions.<br/>
+        Taking paid coding commissions.
         You can reach me here:
       <ul>
         <li> <b>QQ:</b> <a href="https://qm.qq.com/q/GuULJs94S6">1921708385</a></li>
