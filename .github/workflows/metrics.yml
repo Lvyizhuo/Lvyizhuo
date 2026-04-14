@@ -27,9 +27,12 @@ jobs:
           # 基础信息
           base: header, activity, community, repositories, metadata
 
-          # 成就
+          # 成就 (修复不显示的问题)
           plugin_achievements: yes
-          plugin_achievements_threshold: C
+          # 将阈值设为 X 可以强制显示所有成就（方便排查是否是数据问题），排查成功后可改回 C 或 B
+          plugin_achievements_threshold: X
+          # 推荐使用 compact 紧凑模式，排版更美观且不易超出图片高度限制
+          plugin_achievements_display: compact 
 
           # 流量
           plugin_traffic: yes
@@ -42,9 +45,5 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 16
           plugin_languages_details: bytes-size, percentage
-
-          # 连续提交
-          plugin_streak: yes
-
-          # 每日名言
-          plugin_quotes: yes
+          
+          # 注意：plugin_streak 和 plugin_quotes 已移除，因为原项目不支持此功能
