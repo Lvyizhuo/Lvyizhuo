@@ -19,7 +19,13 @@
       <p>
         <!-- <a href="https://lvyizhuo.github.io/"><img src="https://img.shields.io/badge/Website-Personal-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
         <a href="mailto:lvonezhuo@163.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a> -->
-        Website
+        Taking paid coding commissions.<br/>
+        You can reach me here:
+      <ul>
+        <li> <b>QQ:</b> <a href="https://qm.qq.com/q/GuULJs94S6">1921708385</a></li>
+        <li> <b>WeChat:</b> ./WeChat.jpg</li>
+        <li> <b>Email:</b> <a href="mailto:lvonezhuo@163.com">lvonezhuo@163.com</a></li>
+      </ul>
       </p>
     </td>
     <td width="45%" align="center">
