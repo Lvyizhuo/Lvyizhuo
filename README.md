@@ -17,12 +17,13 @@
         <li>🌱 <b>Learning:</b> Modern web architecture & efficient backend systems</li>
       </ul>
       <p>
-        <a href="https://lvyizhuo.github.io/"><img src="https://img.shields.io/badge/Website-Personal-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
-        <a href="mailto:lvonezhuo@163.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>
+        <!-- <a href="https://lvyizhuo.github.io/"><img src="https://img.shields.io/badge/Website-Personal-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
+        <a href="mailto:lvonezhuo@163.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a> -->
+        Website
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="./metrics.plugin.16personalities.svg" width="100%"/>
+      <img src="./INTJ-A.gif" width="100%"/>
     </td>
   </tr>
 </table>
