@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
@@ -39,14 +39,21 @@ jobs:
 
           # 3D 日历
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           # 语言统计
           plugin_languages: yes
           plugin_languages_limit: 16
           plugin_languages_details: bytes-size, percentage
-          
-          # 注意：plugin_streak 和 plugin_quotes 已移除，因为原项目不支持此功能
+
+          # RSS 订阅 (CSDN 博客)
+          plugin_rss: yes
+          plugin_rss_source: https://blog.csdn.net/Lvyizhuo/rss/list
+          plugin_rss_limit: 4
+
+          # Stargazers (Worldmap 形式)
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: worldmap
 
       - uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e
         with:
