@@ -88,79 +88,12 @@
   
 </p>
 
-<!--Trophies Section-->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Lvyizhuo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Lvyizhuo&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=onedark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Lvyizhuo&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=flat">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Lvyizhuo&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=onedark">
-    </picture>
-  </a>
-</p>
-<br />
-
-<!--Github stats Table-->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Lvyizhuo">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lvyizhuo&count_private=true&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Lvyizhuo">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lvyizhuo&theme=github-dark-blue&background=0d1117&fire=58a6ff&ring=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Top Languages</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Lvyizhuo">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvyizhuo&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Contribution Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Lvyizhuo">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api/v1?username=Lvyizhuo&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Contribution Graph 📈</h2>
+<!-- Metrics -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lvyizhuo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" border-radius="15">
+  <img src="github-metrics.svg" style="width:100%;max-width:100%;">
 </div>
 
----
-
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=58a6ff&accent_color=58a6ff">
-</p>
-
----
-
-<p align="center">
+<p align="center" style="margin-top: 2em;">
   <i>"Build simple. Scale smart."</i>
 </p>
 
