@@ -12,6 +12,7 @@ jobs:
       actions: read
       issues: read
       pull-requests: read
+      repository-projects: read
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -22,34 +23,39 @@ jobs:
           config_twemoji: yes
           config_octicon: yes
           config_mode: auto
-          # 👇 关键：生成时就铺满宽度
+          # 👇 关键：生成即满宽 + 缩小字体
           config_output_width: 100%
+          config_font_size: 12
+          config_line_height: 1.2
 
-          # 基础
+          # 基础模块
           base: header, activity, community, repositories, metadata
 
-          # 成就
+          # 🏆 成就模块（修复不显示的核心配置）
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: no
           plugin_achievements_restricted: no
+          plugin_achievements_limit: 8
 
-          # 流量
+          # 🧮 仓库流量
           plugin_traffic: yes
 
-          # 3D日历
+          # 📅 3D等距贡献日历
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 语言卡片（生成即满宽）
+          # 🛠️ 技能语言卡片（缩小字体+满宽）
           plugin_languages: yes
           plugin_languages_analysis: repositories
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
           plugin_languages_width: 100%
+          plugin_languages_font_size: 11
 
-          # 连续提交
+          # 🔥 连续提交 streak
           plugin_streak: yes
 
-          # 名言
+          # ✍️ 动态名言
           plugin_quotes: yes
+          plugin_quotes_font_size: 12
