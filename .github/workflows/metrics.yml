@@ -14,7 +14,7 @@ jobs:
       actions: read
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e # lowlighter/metrics@latest fork fixing Projects classic deprecation (issue #1706)
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Lvyizhuo
