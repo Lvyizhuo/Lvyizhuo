@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1262 Commits
+                            1264 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 176 repositories
+                            Starred 177 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.57732480914154" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="393.57732480914154" y="0" width="236.48808867760872" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="630.0654134867502" y="0" width="190.19725752968142" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="820.2626710164317" y="0" width="39.09427053868018" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="859.3569415551118" y="0" width="30.271347259031057" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="889.6282888141429" y="0" width="12.72514812047098" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="902.3534369346139" y="0" width="9.941521969117954" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="912.2949589037319" y="0" width="7.70504109626816" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.57587167157976" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="393.57587167157976" y="0" width="236.48721553349463" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="630.0630872050745" y="0" width="190.196555297206" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="820.2596425022804" y="0" width="39.09752295471943" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="859.3571654569998" y="0" width="30.27123549336526" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="889.6284009503652" y="0" width="12.725101137604977" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="902.3535020879701" y="0" width="9.941485263753888" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="912.294987351724" y="0" width="7.705012648276047" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -355,6 +355,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">【AI私人医生项目day02】—— 模型微调（环境配置篇）</div>
+                                <div class="date">15 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">【AI私人家庭医生day01】—— 项目介绍</div>
+                                <div class="date">15 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">【Agent开发】—— ToolCall 、 FunctionCall 底层原理与极简实现</div>
                                 <div class="date">29 Mar 2026</div>
                             </div>
@@ -366,24 +384,6 @@
                             <div class="infos">
                                 <div class="title">【MySQL基础】—— MySQL入门｜从零开始学基本操作，看完就能上手</div>
                                 <div class="date">29 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">【面试题03】—— Spring系列、MyBatis、ICO、AOP原理</div>
-                                <div class="date">28 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">【面试题05】—— MySQL+Redis+PostgreSQL 核心面试题=索引优化+持久化+向量存储</div>
-                                <div class="date">28 Mar 2026</div>
                             </div>
                         </div>
                     </section>
@@ -2737,7 +2737,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="136.30653266331657 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="137.0854271356784 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2756,10 +2756,10 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">176</div>
+                                        <div class="value">177</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 176 repositories</div>
+                                <div class="text">Starred 177 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3529,7 +3529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2026, 10:15:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Apr 2026, 15:31:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
