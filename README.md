@@ -31,7 +31,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="./INTJ-A.gif" width="100%"/>
+      <img src="./INTJ-A-Dark.gif" width="100%"/>
     </td>
   </tr>
 </table>
