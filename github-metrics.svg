@@ -355,6 +355,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">【LangChain组件02】—— LangChain Agents内核剖析：从工作流程到状态管理实战</div>
+                                <div class="date">1 Sept 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">【LangChain组件02】——LangChain Agents：create_agent函数详解</div>
+                                <div class="date">1 Sept 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">【LangChain入门】—— LangChain Agent 基础三部曲：消息类型 → Chat Model 高级用法 → LangGraph 编排</div>
                                 <div class="date">31 Aug 2026</div>
                             </div>
@@ -366,24 +384,6 @@
                             <div class="infos">
                                 <div class="title">【LangChain组件01】—— LangChain Tools 完全指南：从 @tool 装饰器到 ToolRuntime 运行时上下文</div>
                                 <div class="date">31 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">【大模型部署02】—— vLLM 部署与推理优化实战：从启动参数到显存/KV 调优</div>
-                                <div class="date">20 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">【全栈开发00】从源码到上线！Java项目底层运行原理 + 企业级Docker部署全流程（实战案例）</div>
-                                <div class="date">13 Aug 2026</div>
                             </div>
                         </div>
                     </section>
@@ -2974,7 +2974,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.89m out of 345m repositories</span>
+                                    <span class="gh">ranked 1.90m out of 345m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -3530,7 +3530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2026, 19:07:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Sept 2026, 00:05:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
