@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 7 users
+                            Followed by 8 users
                         </div>
                     </section>
                     <section>
@@ -34,16 +34,16 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1940 Commits
+                            1941 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    84 Stargazers
+                                    86 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -410,7 +410,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 16 days
+                            Current streak 17 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2394,6 +2394,11 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
                             </g>
+                            <g transform="translate(-5.1, 8.625)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2412,73 +2417,73 @@
                             <div class="entry">
                                 <span class="value">29</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                10
+                                11
                                 <div class="bottom">Sep.</div>
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                11
-                            </div>
-                            <div class="entry">
                                 <span class="value">30</span>
-                                <div class="bar" style="height: 3.3636363636363638px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 12
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 3.3636363636363638px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 13
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 3.3636363636363638px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 3.3636363636363638px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 15
                             </div>
                             <div class="entry">
                                 <span class="value">43</span>
-                                <div class="bar" style="height: 14.59090909090909px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 14.166666666666666px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
                                 <span class="value">52</span>
-                                <div class="bar" style="height: 22.36363636363636px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 21.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 17
                             </div>
                             <div class="entry">
                                 <span class="value">59</span>
-                                <div class="bar" style="height: 28.40909090909091px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 27.500000000000004px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 18
                             </div>
                             <div class="entry">
                                 <span class="value">62</span>
-                                <div class="bar" style="height: 31px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 19
                             </div>
                             <div class="entry">
                                 <span class="value">70</span>
-                                <div class="bar" style="height: 37.90909090909091px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 36.666666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value">74</span>
-                                <div class="bar" style="height: 41.36363636363637px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">78</span>
-                                <div class="bar" style="height: 44.81818181818182px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 43.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">84</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 48.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 23
+                            </div>
+                            <div class="entry">
+                                <span class="value">86</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                24
                             </div>
                         </div>
                     </section>
@@ -2488,13 +2493,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                10
-                                <div class="bottom">Sep.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 11
+                                <div class="bottom">Sep.</div>
                             </div>
                             <div class="entry">
                                 <span class="value">+1</span>
@@ -2555,6 +2555,11 @@
                                 <span class="value">+6</span>
                                 <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 23
+                            </div>
+                            <div class="entry">
+                                <span class="value">+2</span>
+                                <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                24
                             </div>
                         </div>
                     </section>
@@ -2656,7 +2661,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.629999999999995 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.94 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2678,10 +2683,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">673</div>
+                                        <div class="value">674</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 673 times</div>
+                                <div class="text">Repositories have been deployed 674 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2806,7 +2811,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.774774774774773 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.085085085085085 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2829,12 +2834,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 675k out of 352m repositories</span>
+                                    <span class="gh">ranked 659k out of 352m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">64</div>
+                                        <div class="value">66</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 64 stars</div>
+                                <div class="text">Maintaining a repository with 66 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2896,46 +2901,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.30458590006845 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
-                                            <path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#2088FF" stroke-width="2" stroke-linejoin="round"/>
-                                            <path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#2088FF" stroke-width="2"/>
-                                            <path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <circle stroke="#79B8FF" cx="16.5" cy="2.057" r="1"/>
-                                            <circle stroke="#79B8FF" cx="14.5" cy="12.057" r="1"/>
-                                            <circle stroke="#79B8FF" cx="31.5" cy="9.057" r="1"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Member
-                                    <div class="value-wrapper">
-                                        <div class="value">1</div>
-                                    </div>
-                                </div>
-                                <div class="text">Registered 1 year ago</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.673366834170854 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.452261306532663 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2972,12 +2938,51 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3m out of 245m users</span>
+                                    <span class="gh">ranked 2.67m out of 245m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">7</div>
+                                        <div class="value">8</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 7 users</div>
+                                <div class="text">Followed by 8 users</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.30458590006845 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
+                                            <path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#2088FF" stroke-width="2" stroke-linejoin="round"/>
+                                            <path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#2088FF" stroke-width="2"/>
+                                            <path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <circle stroke="#79B8FF" cx="16.5" cy="2.057" r="1"/>
+                                            <circle stroke="#79B8FF" cx="14.5" cy="12.057" r="1"/>
+                                            <circle stroke="#79B8FF" cx="31.5" cy="9.057" r="1"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Member
+                                    <div class="value-wrapper">
+                                        <div class="value">1</div>
+                                    </div>
+                                </div>
+                                <div class="text">Registered 1 year ago</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3533,7 +3538,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2026, 05:06:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Sept 2026, 11:06:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
